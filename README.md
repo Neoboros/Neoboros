@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <div style="display: flex">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoboros">
-<img src="https://github-readme-stats.vercel.app/api?username=Neoboros">
+<img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoboros">
+<img height="300" src="https://github-readme-stats.vercel.app/api?username=Neoboros">
 </div>
 
 <div style="display: inline_block"><br>
