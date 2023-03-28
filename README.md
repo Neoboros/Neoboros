@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Stranger 👋
 
 <div style="display: flex; margin: 0 auto">
 <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoboros">
