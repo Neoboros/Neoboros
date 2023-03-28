@@ -1,5 +1,7 @@
 ### Hello Stranger 👋
 
+🎓 | IFSC Integrado em Informática III
+
 <div style="display: flex; margin: 0 auto">
 <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoboros">
 <img height="225" src="https://github-readme-stats.vercel.app/api?username=Neoboros">
